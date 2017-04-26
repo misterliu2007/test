@@ -1,13 +1,23 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Introduction
+description : In this chapter, stochastic and deterministic models, the generic features of stochastic processes, and simulation are introduced. In addition, conditional probability and conditional expectation are reviewed.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:4ad7bfe3e2
-## A really bad movie
+## Deterministic and Stochastic Models
 
-Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
+A stochastic process, also called a random process, is simply one
+in which outcomes are uncertain. By contrast, in a deterministic system there is no
+randomness. In a deterministic system, the same output is always produced from a
+given input.
+Functions and differential equations are typically used to describe deterministic
+processes. Random variables and probability distributions are the building blocks for
+stochastic systems.
+Consider a simple exponential growthmodel. The number of bacteria that grows in
+a culture until its food source is exhausted exhibits exponential growth. A common
+deterministic growth model is to assert that the population of bacteria grows at a
+fixed rate, say 20% per minute.
 
 *** =instructions
 - Adventure
