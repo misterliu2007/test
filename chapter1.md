@@ -17,10 +17,10 @@ stochastic systems.
 Consider a simple exponential growthmodel. The number of bacteria that grows in
 a culture until its food source is exhausted exhibits exponential growth. A common
 deterministic growth model is to assert that the population of bacteria grows at a
-fixed rate, say 20% per minute.
+fixed rate, say 20% per minute. For example, $ y_1(t)$.
 
 *** =instructions
-- Adventure
+- Adventure $ a_1$
 - Action
 - Animation
 - Comedy
