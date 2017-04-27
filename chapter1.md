@@ -11,9 +11,13 @@ A stochastic process, also called a random process, is simply one
 in which outcomes are uncertain. By contrast, in a deterministic system there is no
 randomness. In a deterministic system, the same output is always produced from a
 given input.
+
+
 Functions and differential equations are typically used to describe deterministic
 processes. Random variables and probability distributions are the building blocks for
 stochastic systems.
+
+
 Consider a simple exponential growthmodel. The number of bacteria that grows in
 a culture until its food source is exhausted exhibits exponential growth. A common
 deterministic growth model is to assert that the population of bacteria grows at a
